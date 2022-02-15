@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.454" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout-v23/item_asteroid.xml" value="0.3536458333333333" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout/activity_info.xml" value="0.4466666666666667" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout/activity_main.xml" value="0.3307291666666667" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout/content_scrolling.xml" value="0.3536458333333333" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/layout/item_asteroid.xml" value="0.3333333333333333" />
+        <entry key="..\:/TSU/Mobile/CFT SHIFT/app/src/main/res/menu/menu_info.xml" value="0.24166666666666667" />
+        <entry key="..\:/TSU/Mobile/CouseCFT/app/src/main/res/layout/activity_info.xml" value="0.29375" />
+        <entry key="..\:/TSU/Mobile/CouseCFT/app/src/main/res/layout/activity_main.xml" value="0.3234375" />
+        <entry key="..\:/TSU/Mobile/CouseCFT/app/src/main/res/layout/content_scrolling.xml" value="0.5005208333333333" />
+        <entry key="..\:/TSU/Mobile/CouseCFT/app/src/main/res/layout/item_asteroid.xml" value="0.3203125" />
+        <entry key="..\:/TSU/Mobile/CurrencyApp/app/src/main/res/layout/content_scrolling.xml" value="0.5005208333333333" />
+        <entry key="..\:/TSU/Mobile/SHIFT Test/app/src/main/res/layout/activity_main.xml" value="0.5005208333333333" />
+        <entry key="..\:/TSU/Mobile/SHIFT Test/app/src/main/res/layout/item_asteroid.xml" value="0.4466666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

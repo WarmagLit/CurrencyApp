@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shift2022Winter</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Description</string>
+    <string name="update">Update</string>
+    <string name="error">Error</string>
+    <string name="large_text">Large text</string>
+    <string name="iso_code">ISO code: %1$s \n</string>
+    <string name="nominal">Nominal: %1$s \n</string>
+    <string name="value">Value: %1$s \n</string>
+    <string name="prev_value">Previous value: %1$s \n</string>
+    <string name="convert_to">Convert from RUB to %1$s:</string>
+    <string name="convert">Convert</string>
+    <string name="_0">0</string>
+</resources>
